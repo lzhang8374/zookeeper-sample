@@ -10,9 +10,6 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author: WangSaiChao
- * @date: 2018/9/10
- * @description:
  */
 public class TestZookeeper implements Watcher{
 
